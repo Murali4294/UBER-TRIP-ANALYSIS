@@ -13,10 +13,10 @@ KPI’s
 5. Average Trip Distance – How far are customers traveling on average per trip? 
 6. Average Trip Time – What is the average duration of trips? 
 Expected Outcomes: 
-✔ Identify trends in ride bookings and revenue generation. 
-✔ Analyse trip efficiency in terms of distance and duration. 
-✔ Compare booking values and trip patterns across different time periods. 
-✔ Provide insights to optimize pricing models and improve customer satisfaction. 
+1.Identify trends in ride bookings and revenue generation. 
+2.Analyse trip efficiency in terms of distance and duration.
+3.Compare booking values and trip patterns across different time periods. 
+4.Provide insights to optimize pricing models and improve customer satisfaction. 
 
 DAHBOARD 2: TIME ANALYSIS 
  To understand trip patterns based on time, Uber needs to analyse ride demand and trends 
@@ -24,9 +24,9 @@ across different time intervals. This dashboard will help in optimizing operatio
 and driver availability. 
 Global Dynamic Measure (Filters All Charts) 
 A measure selector will be created for: 
-✔ Total Bookings 
-✔ Total Booking Value 
-✔ Total Trip Distance 
+1.Total Bookings 
+2.Total Booking Value 
+3.Total Trip Distance 
 This dynamic measure will update all visuals based on user selection. 
 Visualizations: 
 By Pickup Time (10-Minute Intervals) - Area Chart 
